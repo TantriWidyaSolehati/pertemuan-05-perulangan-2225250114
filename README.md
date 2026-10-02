@@ -1,7 +1,7 @@
 # Pertemuan 05 Perulangan Python
-Nama: Tantri Widya Solehati
-NIM: 2225250114
-Kelas: 3F
+- Nama: Tantri Widya Solehati
+- NIM: 2225250114
+- Kelas: 3F
 ## Tujuan
 Menggunakan for dan while untuk menyelesaikan masalah iteratif.
 ## Cara Menjalankan
@@ -20,11 +20,10 @@ python3 kuis/kuis2_deret_aritmetika.py
 8. Setelah perulangan selesai, tampilkan hasil jumlah deret: total
 9. Selesai
 ## Hasil Pengujian
-| a | d | n | keluaran yang diharapkan |     keluaran aktual     | status |
-|   |   |   |       suku      | Jumlah |      suku      | Jumlah |        |
-| 2 | 3 | 5 | 2, 5, 8, 11, 14 |  40    | 2, 5, 8, 11, 14|  40    | Sesuai |
-|10 |-2 | 4 | 10, 8, 6, 4     |  28    | 10, 8, 6, 4    |  28    | Sesuai |
-|1.5|0.5| 3 | 1.5, 2.0, 2.5   | 6.0    | 1.5, 2.0, 2.5  | 6.0    | Sesuai |
+| a | d | n |     keluaran yang diharapkan       |           keluaran aktual          | status |
+| 2 | 3 | 5 | suku: 2, 5, 8, 11, 14 ; jumlah: 40 | suku: 2, 5, 8, 11, 14 ; jumlah: 40 | Sesuai |
+|10 |-2 | 4 | suku: 10, 8, 6, 4 ; jumlah: 28     | suku: 10, 8, 6, 4 ; jumlah: 28     | Sesuai |
+|1.5|0.5| 3 | suku: 1.5, 2.0, 2.5 ; jumlah: 6.0  | suku: 1.5, 2.0, 2.5 ; jumlah: 6.0  | Sesuai |
 ## Refleksi
 - Kesalahan:
     1. Pada kode awal, semua input ditulis dengan int().
