@@ -20,10 +20,11 @@ python3 kuis/kuis2_deret_aritmetika.py
 8. Setelah perulangan selesai, tampilkan hasil jumlah deret: total
 9. Selesai
 ## Hasil Pengujian
-| a | d | n |     keluaran yang diharapkan       |           keluaran aktual          | status |
-| 2 | 3 | 5 | suku: 2, 5, 8, 11, 14 ; jumlah: 40 | suku: 2, 5, 8, 11, 14 ; jumlah: 40 | Sesuai |
-|10 |-2 | 4 | suku: 10, 8, 6, 4 ; jumlah: 28     | suku: 10, 8, 6, 4 ; jumlah: 28     | Sesuai |
-|1.5|0.5| 3 | suku: 1.5, 2.0, 2.5 ; jumlah: 6.0  | suku: 1.5, 2.0, 2.5 ; jumlah: 6.0  | Sesuai |
+| a  | d  | n | keluaran yang diharapkan          | keluaran aktual                     | status  |
+|----|----|---|-----------------------------------|-------------------------------------|---------|
+| 2  | 3  | 5 | suku: 2, 5, 8, 11, 14 ; jumlah:40 | suku: 2, 5, 8, 11, 14 ; jumlah: 40  | Sesuai  |
+| 10 | -2 | 4 | suku: 10, 8, 6, 4 ; jumlah: 28    | suku: 10, 8, 6, 4 ; jumlah: 28      | Sesuai  |
+|1.5 |0.5 | 3 | suku: 1.5, 2.0, 2.5 ; jumlah: 6.0 | suku: 1.5, 2.0, 2.5 ; jumlah: 6.0   | Sesuai  |
 ## Refleksi
 - Kesalahan:
     1. Pada kode awal, semua input ditulis dengan int().
